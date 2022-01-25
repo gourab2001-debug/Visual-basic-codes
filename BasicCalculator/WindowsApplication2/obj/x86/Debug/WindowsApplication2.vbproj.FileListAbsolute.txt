@@ -1,0 +1,9 @@
+E:\CST DIPLOMA\Projects\Assignments\VB\Codes\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\CST DIPLOMA\Projects\Assignments\VB\Codes\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\CST DIPLOMA\Projects\Assignments\VB\Codes\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\CST DIPLOMA\Projects\Assignments\VB\Codes\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\CST DIPLOMA\Projects\Assignments\VB\Codes\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\CST DIPLOMA\Projects\Assignments\VB\Codes\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+E:\CST DIPLOMA\Projects\Assignments\VB\Codes\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\CST DIPLOMA\Projects\Assignments\VB\Codes\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\CST DIPLOMA\Projects\Assignments\VB\Codes\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
